@@ -20,7 +20,5 @@ Then, open [http://localhost:3000](http://localhost:3000) with your browser to s
 
 ## Remarks
 
-To learn more about Next.js, take a look at the following resources:
-
 - This website is created using the MVVM structure.
 - This website is created using next js.
