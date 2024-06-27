@@ -26,6 +26,7 @@ Then, open [http://localhost:3000](http://localhost:3000) with your browser to s
 - Next the game will start, click on a cell that you want to modify in the board.
 - Then, click on a digit card, those are on the right of the board (or under it in smaller screens) to fill the chosen cell with a digit.
 - You can also get a hint on what digit should be in the selected cell.
+- And if you are really stack and you want to get the solution, click on the solve button.
 - If you made a mistake, just select the wrongly filled cell and click on erase button.
 
 #### for the solver:
