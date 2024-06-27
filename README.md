@@ -1,4 +1,4 @@
-## Sudoku game + Sudoku solver:
+## Sudoku generator + Sudoku solver:
 
 Either you want to play sudoku or you want find solutions to sudoku problems, this is the best place -> https://sudoku-game-and-solver.netlify.app/
 
@@ -20,10 +20,10 @@ Then, open [http://localhost:3000](http://localhost:3000) with your browser to s
 
 ## How to play:
 
-#### For the game:
+#### For the generator:
 
 - Click on "New Game" button then choose how hard you want the game to be.
-- Next the game will start, click on a cell that you want to modify in the board.
+- Next, a sudoku problem is generated and the game has started, click on a cell that you want to modify in the board.
 - Then, click on a digit card, those are on the right of the board (or under it in smaller screens) to fill the chosen cell with a digit.
 - You can also get a hint on what digit should be in the selected cell.
 - And if you are really stack and you want to get the solution, click on the solve button.
