@@ -1,6 +1,6 @@
 ## Sudoku game + Sudoku solver:
 
-Either you want to play sudoku or you want find a solution to a sudoku problem, this is the best place -> https://sudoku-game-and-solver.netlify.app/
+Either you want to play sudoku or you want find solutions to sudoku problems, this is the best place -> https://sudoku-game-and-solver.netlify.app/
 
 ## To run it locally:
 
