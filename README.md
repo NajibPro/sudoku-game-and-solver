@@ -43,4 +43,4 @@ Then, open [http://localhost:3000](http://localhost:3000) with your browser to s
 ## Remarks
 
 - This website is created using the MVVM structure.
-- This website is created using next js.
+- This website is created using Next js.
